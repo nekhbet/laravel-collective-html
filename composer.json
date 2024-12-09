@@ -1,5 +1,5 @@
 {
-    "name": "laravelcollective/html",
+    "name": "mfonte/laravel-collective-html",
     "description": "Laravel 11 compatible fork of LaravelCollective/html. Namespaces kept as original for compatibility. HTML and Form Builders for the Laravel Framework",
     "type": "library",
     "version": "1.0.0",
